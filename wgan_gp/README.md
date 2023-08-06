@@ -1,5 +1,5 @@
 # RGAN (WGAN-GP-based)
-This is the official Pytorch implementation of RGAN [Robust Generative Adversarial Network] based on WGAN-GP [Improved Training of Wasserstein GANs]([https://openreview.net/pdf?id=B1QRgziT-](https://arxiv.org/abs/1704.00028)). 
+This is the official Pytorch implementation of RGAN [Robust Generative Adversarial Network] based on WGAN-GP [Improved Training of Wasserstein GANs]((https://arxiv.org/abs/1704.00028)). 
 
 The codes are implemented based on the released codes from "Improved Training of Wasserstein GANs"([https://github.com/GongXinyuu/sngan.pytorch](https://github.com/igul222/improved_wgan_training))
 
