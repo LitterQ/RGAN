@@ -1,9 +1,6 @@
-# SNGAN.pytorch
-An unofficial Pytorch implementation of [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/pdf?id=B1QRgziT-). 
-For official Chainer implementation please refer to [https://github.com/pfnet-research/sngan_projection](https://github.com/pfnet-research/sngan_projection)
-
-Our implementation achieves Inception score of **8.21** and FID score of **14.21** on unconditional CIFAR-10 image generation task.
-In comparison, the original paper claims **8.22** and **21.7** respectively.
+# RGAN (SNGAN-based)
+The official Pytorch implementation of RGAN which is based on SNGAN[Spectral Normalization for Generative Adversarial Networks](https://openreview.net/pdf?id=B1QRgziT-). 
+The codes are implemented based on the released codes from "SNGAN.pytorch"(https://github.com/GongXinyuu/sngan.pytorch)
 
 ## Set-up
 
