@@ -16,4 +16,4 @@ The codes are implemented based on the released codes from "Improved Training of
 
 1. Inception Score code from [OpenAI's Improved GAN](https://github.com/openai/improved-gan/tree/master/inception_score) (official).
 2. FID code and statistics file from [https://github.com/bioinf-jku/TTUR](https://github.com/bioinf-jku/TTUR) (official).
-3. The code of Spectral Norm GAN is inspired by [https://github.com/igul222/improved_wgan_training](https://github.com/igul222/improved_wgan_training).
+3. The code of WGAN-GP is inspired by [https://github.com/igul222/improved_wgan_training](https://github.com/igul222/improved_wgan_training).
