@@ -1,5 +1,5 @@
 # RGAN (SNGAN-based)
-This is the official Pytorch implementation of RGAN [Robust Generative Adversarial Network] based on SNGAN [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/pdf?id=B1QRgziT-). 
+This is the official Pytorch implementation of RGAN Robust Generative Adversarial Network based on SNGAN [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/pdf?id=B1QRgziT-). 
 The codes are implemented based on the released codes from "SNGAN.pytorch"(https://github.com/GongXinyuu/sngan.pytorch)
 
 ## Set-up
