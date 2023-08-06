@@ -4,4 +4,4 @@
 This is the implementation of the
 ["Robust Generative Adversarial Network"].
 
-Please go to a different baseline folder to see the details.
+Please go to the different baseline folders to see the details.
